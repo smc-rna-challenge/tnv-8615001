@@ -1,0 +1,22 @@
+{
+    "txAnnofile": "Homo_sapiens.GRCh37.75.txAnno.RData", 
+    "TUMOR_FASTQ_2": {
+        "path": "data/sim31_mergeSort_2.fq.gz", 
+        "class": "File"
+    }, 
+    "TUMOR_FASTQ_1": {
+        "path": "data/sim31_mergeSort_1.fq.gz", 
+        "class": "File"
+    }, 
+    "gtffile": "Homo_sapiens.GRCh37.75.gtf.gz", 
+    "REFERENCE_GENOME": {
+        "path": "data/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa", 
+        "class": "File"
+    }, 
+    "sqlitefile": "Homo_sapiens.GRCh37.75.sqlite", 
+    "cndaFa": "Homo_sapiens.GRCh37.75.cdna.all.fa.gz", 
+    "REFERENCE_GTF": {
+        "path": "data/Homo_sapiens.GRCh37.75.gtf", 
+        "class": "File"
+    }
+}
